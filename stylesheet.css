@@ -1,5 +1,6 @@
 body {
   background-color: #FDF1CB;
+  font-family: 'Alegreya', serif;
 }
 
 .container {
@@ -30,6 +31,7 @@ nav li {
   display: inline;
   padding: 15px;
   font-family: 'Alegreya SC', serif;
+  font-weight: 700;
   font-size: 25px;
   color: white;
 }
