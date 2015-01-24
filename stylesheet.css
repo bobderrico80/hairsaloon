@@ -1,0 +1,72 @@
+body {
+  background-color: #FDF1CB;
+}
+
+.container {
+  width:800px;
+  margin: 0 auto;
+  background-color: white;
+}
+
+.logo {
+  max-width:800px;
+  display:block;
+}
+
+nav {
+  background-color: #CA9D06;
+  height:60px
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: center;
+  line-height: 60px;
+}
+
+nav li {
+  display: inline;
+  padding: 15px;
+  font-family: 'Alegreya SC', serif;
+  font-size: 25px;
+  color: white;
+}
+
+nav li:before {
+  content: '{ ';
+}
+
+nav li:after {
+  content: ' }';
+}
+
+nav a, nav a:link, nav a:visited {
+  text-decoration: none;
+  color: white;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+#slides {
+  display: none;
+}
+footer {
+  background-color: #CA9D06;
+  height:40px;
+  padding-top: 10px;
+  text-align: center;
+  color: white;
+  font-size: 12px;
+}
+
+footer a, footer a:link, footer a:visited {
+  color: white;
+}
+
+footer p {
+  margin: 0;
+}
