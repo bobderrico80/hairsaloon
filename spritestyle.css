@@ -1,0 +1,22 @@
+.icon {
+  background-image: url('../images/sprite.png');
+}
+
+.icon-facebook {
+  background-position: -5px -5px;
+  width: 30px;
+  height: 30px;
+}
+
+.icon-phone {
+  background-position: -5px -45px;
+  width: 30px;
+  height: 30px;
+}
+
+.icon-email {
+  background-position: -5px -85px;
+  width: 30px;
+  height: 30px;
+}
+

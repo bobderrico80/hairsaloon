@@ -7,7 +7,7 @@ get_header();
         <img src="<?php echo get_template_directory_uri(); ?>/slides/slide02.jpg"/>
         <img src="<?php echo get_template_directory_uri(); ?>/slides/slide03.jpg"/>
       </div>
-      <div class="content">
+      <main>
         <?php 
           if (have_posts()) {
             while (have_posts()) {
@@ -16,5 +16,4 @@ get_header();
             }
           }
         ?>
-      </div>
       <?php get_footer(); 

@@ -13,6 +13,18 @@ em {
   font-size: 30px;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:link, a:visited {
+  color: #07396C;
+}
+
+a:hover {
+  text-decoration: underline
+}
+
 .container {
   max-width:800px;
   margin: 0 auto;
@@ -69,10 +81,43 @@ nav a:hover {
   display: none;
 }
 
-.content {
+main, aside {
   padding: 0 25px;
   font-size: 25px;
   text-align: center;
+}
+
+aside {
+  margin: 50px 0 30px; 0
+}
+
+aside p {
+  margin: 10px
+}
+
+.icon {
+  background-image: url('sprite.png');
+  display:inline-block;
+  vertical-align: top;
+  margin-right: 10px;
+}
+
+.icon-facebook {
+  background-position: -5px -5px;
+  width: 30px;
+  height: 30px;
+}
+
+.icon-phone {
+  background-position: -5px -45px;
+  width: 30px;
+  height: 30px;
+}
+
+.icon-email {
+  background-position: -5px -85px;
+  width: 30px;
+  height: 30px;
 }
 
 footer {
