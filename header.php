@@ -5,6 +5,7 @@
     <link href='http://fonts.googleapis.com/css?family=Alegreya:400italic,400|Alegreya+SC:700' rel='stylesheet' type='text/css'>
     <link href="<?php echo get_template_directory_uri(); ?>/normalize.min.css" rel="stylesheet"/>
     <link href="<?php echo get_stylesheet_uri(); ?>" rel="stylesheet"/>
+    <link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri(); ?>/favicon.ico" />
     <script src="<?php echo get_template_directory_uri(); ?>/jquery-1.11.2.min.js"></script>
     <script src="<?php echo get_template_directory_uri(); ?>/jquery.slides.min.js"></script>
     <script>
