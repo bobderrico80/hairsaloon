@@ -31,6 +31,7 @@
     <meta charset="utf8"/>
     <?php wp_head(); ?>
     <meta name="viewport" content="width=device-width"/>
+    <meta name="description" content="We are a full service family salon, with a fun atmosphere. We offer the latest styles in haircutting, texturizing, coloring, hylights/lowlights, and more.">
   </head>
   <body>
     <div class="container">
