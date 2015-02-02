@@ -34,7 +34,7 @@
   <body>
     <div class="container">
       <header>
-        <img class="logo" src="<?php echo get_template_directory_uri(); ?>/logo.png" alt="The Hair Saloon & More"/>
+        <img class="logo" src="<?php echo get_template_directory_uri(); ?>/logo.png" alt="The Hair Saloon & More | 856-627-8529"/>
         <nav>
           <ul>
             <?php wp_list_pages(array('title_li'=>'','sort_column'=>'menu_order')); ?>
