@@ -1,0 +1,8 @@
+{
+  "name": "the-hair-saloon-and-more",
+  "version": "1.0.0",
+  "description": "wordpress site for The Hair Saloon and More, a local business",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
