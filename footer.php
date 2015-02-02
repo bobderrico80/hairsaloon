@@ -7,6 +7,7 @@
       <footer>
         <p>Copyright &copy 2015 The Hair Saloon and More</p>
         <p>Site built by <a href="http://www.bobderrico.com" target="_blank" title="Bob D'Errico - Web Developer">Bob D'Errico</a>
+        <p>Powered by <a href="http://www.wordpress.org" target="_blank" title="WordPress">WordPress</a> | <a href="./wp-admin/">Admin Login</a>
       </footer>
     </div>
   </body>
